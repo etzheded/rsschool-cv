@@ -1,3 +1,5 @@
+![663387251685720065](https://user-images.githubusercontent.com/121163024/208897179-1ad2c200-3c42-41d9-820c-49af32887c06.png)
+
 # Ruslan Akhmedov
 
 ## Contacts
