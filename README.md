@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://etzheded.github.io/rsschool-cv/cv
+## https://etzheded.github.io/rsschool-cv/
