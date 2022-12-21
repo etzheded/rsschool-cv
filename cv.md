@@ -1,6 +1,7 @@
 # Ruslan Akhmedov
 
 ## Contacts
+Discord: ded#0104
 Number: +79911117715
 Gmail: etzheon@gmail.com
 Telegram: @hehemeeenn
