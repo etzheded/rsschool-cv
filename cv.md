@@ -15,11 +15,11 @@ Skills:HTML, CSS, JS(base),used some Angular,Git
 ##### Code examples
 
 
-###### Work experience
+##### Work experience
 https://github.com/de-d/cars-hw (my first account (if you need proof, I can provide it), for this course I decided to create a new account, for the convenience of learning)
 
-####### Education
+##### Education
 Secondary vocational, another 7 day intensive front-end development
 
-######## English
+##### English
 A2
